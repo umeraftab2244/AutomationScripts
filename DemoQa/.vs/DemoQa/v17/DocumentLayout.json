@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\webtables.action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\webtables.action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\webtables.load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\webtables.load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\elements.load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\elements.load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\elements.action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\elements.action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\radiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\radiobutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|c:\\users\\lenovo\\source\\repos\\demoqa\\demoqa\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663261-2D52-4DB5-B9FF-857BC8A03C4F}|DemoQa\\DemoQa.csproj|solutionrelative:demoqa\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Buttons.cs",
+              "RelativeDocumentMoniker": "DemoQa\\Buttons.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Buttons.cs",
+              "RelativeToolTip": "DemoQa\\Buttons.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:12:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebTables.Load.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\WebTables.Load.cs",
+              "RelativeDocumentMoniker": "DemoQa\\WebTables.Load.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\WebTables.Load.cs",
+              "RelativeToolTip": "DemoQa\\WebTables.Load.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:57:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebTables.Action.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\WebTables.Action.cs",
+              "RelativeDocumentMoniker": "DemoQa\\WebTables.Action.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\WebTables.Action.cs",
+              "RelativeToolTip": "DemoQa\\WebTables.Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:39:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RadioButton.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\RadioButton.cs",
+              "RelativeDocumentMoniker": "DemoQa\\RadioButton.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\RadioButton.cs",
+              "RelativeToolTip": "DemoQa\\RadioButton.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:32:50.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Excel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Excel.cs",
+              "RelativeDocumentMoniker": "DemoQa\\Excel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Excel.cs",
+              "RelativeToolTip": "DemoQa\\Excel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:53:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DemoQa\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\UnitTest1.cs",
+              "RelativeToolTip": "DemoQa\\UnitTest1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:13:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\TextBox.cs",
+              "RelativeDocumentMoniker": "DemoQa\\TextBox.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\TextBox.cs",
+              "RelativeToolTip": "DemoQa\\TextBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:41:35.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elements.Load.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Elements.Load.cs",
+              "RelativeDocumentMoniker": "DemoQa\\Elements.Load.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Elements.Load.cs",
+              "RelativeToolTip": "DemoQa\\Elements.Load.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:55:18.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elements.Action.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Elements.Action.cs",
+              "RelativeDocumentMoniker": "DemoQa\\Elements.Action.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DemoQa\\DemoQa\\Elements.Action.cs",
+              "RelativeToolTip": "DemoQa\\Elements.Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:55:15.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
